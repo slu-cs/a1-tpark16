@@ -20,9 +20,9 @@ Overall comments on grading questions:
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
     - The home page isn't called index.html, which is the traditional name.
-    - The Absentee Voting page is sort of outside the navigational structure.
+    - The Absentee Voting page is outside the main navigational structure, which makes it harder to find.
     - The Voter Requirement list is marked up with paragraphs instead of a proper list.
-    - Election dates & deadlines seem well suited to present in a table.
+    - Election dates & deadlines seem well suited to table formats.
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
